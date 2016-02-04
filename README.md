@@ -44,3 +44,4 @@ Services requires root:
 
 Нифига не пашет, со собранным boot не стартует, со стоковым ругается на fstab и кучу либ, хотя вроде все на месте
 # iq4413_devicetree
+# iq4413_devicetree
