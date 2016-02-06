@@ -8,7 +8,7 @@ PRODUCT_RELEASE_NAME := iq4413
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/Fly/iq4413/device_rainbow.mk)
+$(call inherit-product, device/Fly/iq4413/device_iq4413.mk)
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 960
